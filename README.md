@@ -3,7 +3,7 @@ BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies) is an unsup
 It clusters, incrementally and dynamically, incoming multi-dimensional metric data points to try to produce the best quality clustering with the available resources (i. e., available memory and time constraints).
 
 
-BIRCH typically finds a good clustering with a single scan of the data and improve the quality further with a few additional scans. 
+BIRCH typically finds a good clustering with a single scan of the data and further improves the quality with a few additional scans. 
 
 #### CF Tree
 The efficiency of BIRCH is based on a data structure called CF Tree (Clustering Feature Tree), which represents clusters in a compact and hierarchical way.
