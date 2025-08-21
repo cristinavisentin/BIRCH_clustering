@@ -1,6 +1,6 @@
 # BIRCH clustering algorithm
-BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies) is an unsupervised data mining algorithm used to perform hierarchical clustering, especially suitable for very large databases. 
-It incrementally and dynamically clusters incoming multi-dimensional metric data points to try to produce the best quality clustering with the available resources (i. e., available memory and time constraints).
+BIRCH (Balanced Iterative Reducing and Clustering using Hierarchies) is an unsupervised data mining algorithm used to perform hierarchical clustering, especially suitable for very large databases.<br>
+It clusters, incrementally and dynamically, incoming multi-dimensional metric data points to try to produce the best quality clustering with the available resources (i. e., available memory and time constraints).
 
 
 BIRCH typically finds a good clustering with a single scan of the data and improve the quality further with a few additional scans. 
