@@ -7,7 +7,7 @@ BIRCH typically finds a good clustering with a single scan of the data and furth
 
 #### CF Tree
 The efficiency of BIRCH is based on a data structure called CF Tree (Clustering Feature Tree), which represents clusters in a compact and hierarchical way.
-The CF Tree is a height-balanced tree structure employed by BIRCH to keep a "summary" of the clusters in memory instead of storing all the data points.
+The CF Tree is a height-balanced tree structure employed by BIRCH to keep a "summary" of the clusters in memory instead of storing all the data points.<br>
 **The tree structure and its construction are the core of the algorithm.**
 
 #### Clustering Features
